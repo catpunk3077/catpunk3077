@@ -17,13 +17,25 @@
 
 
 <div align="center">
-  <b>What language, framework and technology that I feel good and okay with it</b><br>
-  
+  <b>What language, framework and technology that I feel good and okay with it</b>
+    <p>
+      <img width = 5% src="https://raw.githubusercontent.com/catpunk3077/catpunk3077/main/imgs/csharp-logo.png"></img>
+      <img width = 5% src="https://raw.githubusercontent.com/catpunk3077/catpunk3077/main/imgs/java-logo.png"></img>
+      <img width = 5% src="https://raw.githubusercontent.com/catpunk3077/catpunk3077/main/imgs/vala-logo.png"></img>
+      <img width = 5% src="https://raw.githubusercontent.com/catpunk3077/catpunk3077/main/imgs/html5-logo.png"></img>
+      <img width = 5% src="https://raw.githubusercontent.com/catpunk3077/catpunk3077/main/imgs/css3-logo.png"></img>
+      <img width = 5% src="https://raw.githubusercontent.com/catpunk3077/catpunk3077/main/imgs/dotnet-logo.png"></img>
+      <img width = 5% src="https://raw.githubusercontent.com/catpunk3077/catpunk3077/main/imgs/gtkplus-logo.png"></img>
+    </p>
   <hr>
 </div>
 
 <div align="center">
   <b>What language, framework and technology that I interested and trying to learn</b><br>
-  
+    <p>
+      <img width = 5% src="https://raw.githubusercontent.com/catpunk3077/catpunk3077/main/imgs/rust-logo.png"></img>
+      <img width = 5% src="https://raw.githubusercontent.com/catpunk3077/catpunk3077/main/imgs/golang-logo.png"></img>
+      <img width = 5% src="https://raw.githubusercontent.com/catpunk3077/catpunk3077/main/imgs/dlang-logo.png"></img>
+    </p>
   <hr>
 </div>
