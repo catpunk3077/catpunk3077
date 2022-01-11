@@ -26,6 +26,10 @@
       <img width = 5% src="https://raw.githubusercontent.com/catpunk3077/catpunk3077/main/imgs/css3-logo.png"></img>
       <img width = 5% src="https://raw.githubusercontent.com/catpunk3077/catpunk3077/main/imgs/dotnet-logo.png"></img>
       <img width = 5% src="https://raw.githubusercontent.com/catpunk3077/catpunk3077/main/imgs/gtkplus-logo.png"></img>
+      <img width = 15% src="https://raw.githubusercontent.com/catpunk3077/catpunk3077/main/imgs/kvm-logo.png"></img>
+      <img width = 7% src="https://raw.githubusercontent.com/catpunk3077/catpunk3077/main/imgs/docker-logo.png"></img>
+      <img width = 20% src="https://raw.githubusercontent.com/catpunk3077/catpunk3077/main/imgs/unix-logo.png"></img>
+      <img width = 5% src="https://raw.githubusercontent.com/catpunk3077/catpunk3077/main/imgs/linux-logo.png"></img>
     </p>
   <hr>
 </div>
@@ -36,6 +40,7 @@
       <img width = 5% src="https://raw.githubusercontent.com/catpunk3077/catpunk3077/main/imgs/rust-logo.png"></img>
       <img width = 5% src="https://raw.githubusercontent.com/catpunk3077/catpunk3077/main/imgs/golang-logo.png"></img>
       <img width = 5% src="https://raw.githubusercontent.com/catpunk3077/catpunk3077/main/imgs/dlang-logo.png"></img>
+      <img width = 5% src="https://raw.githubusercontent.com/catpunk3077/catpunk3077/main/imgs/kuberntes-logo.png"></img>
+      <img width = 5% src="https://raw.githubusercontent.com/catpunk3077/catpunk3077/main/imgs/plan9-logo.jpeg"></img>
     </p>
-  <hr>
 </div>
