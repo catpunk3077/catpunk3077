@@ -8,7 +8,7 @@
 
 <div>
   <p>
-    Hello new commers, my name is <b>Schrödinger</b> a chubby blue cybrog cat are live in somewhere of Southeast Asia (SEA) region that who studying in blachor 
+    Hello new commers, my name is <b>Schrödinger</b> a chubby blue cybrog cat are live in somewhere of Southeast Asia (SEA) region that who studying in bachelor 
     degree of computer science and interested computer and technology since 10. I love trying to code in many different proramming language, hopping and hacking 
     some old and new technology that I interested for fun and enjoy to setup some homelab and IT infrastructure in my house.
   </p>
